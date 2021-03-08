@@ -1,0 +1,39 @@
+[
+	{
+		"name":"Home",
+		"url": "/"
+	}, {
+		"name":"link2",
+		"url": "/link2",
+		"child": [
+			{
+				"name":"link2-sub1",
+				"url":"/link2-sub1"
+			},{
+				"name":"link2-sub2",
+				"url":"/link2-sub2"
+			}						
+		]
+	}, {
+		"name":"link3",
+		"url": "/link3"
+	}, {
+		"name":"link4",
+		"url": "/link4",
+		"child": [
+			{
+				"name":"link4-sub1",
+				"url":"/link4-sub1"
+			},{
+				"name":"link4-sub2",
+				"url":"/link4-sub2"
+			},{
+				"name":"link4-sub3",
+				"url":"/link4-sub3"
+			}						
+		]
+	}, {
+		"name":"link5",
+		"url": "/link5"
+	}
+]
